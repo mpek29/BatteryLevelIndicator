@@ -1,0 +1,6 @@
+Reference,Value,Footprint
+C1,100nF,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder
+"D6,D12,D13,D14,D15,D16,D17,D19",LED,LED_SMD:LED_0603_1608Metric
+J1,Conn_01x10_MountingPin,Connector_JST:JST_SH_SM10B-SRSS-TB_1x10-1MP_P1.00mm_Horizontal
+"R8,R11,R12",1kΩ,Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder
+SW3,power,Button_Switch_SMD:SW_Push_1P1T_XKB_TS-1187A
